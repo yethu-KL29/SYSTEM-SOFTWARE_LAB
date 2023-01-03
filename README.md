@@ -9,6 +9,4 @@ Pass one
 Pass Two
 
 
-## Issues
 
-Pass Two doesn't generate object code
